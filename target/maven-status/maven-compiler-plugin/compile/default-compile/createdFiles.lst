@@ -1,0 +1,4 @@
+com\example\model\User.class
+com\example\DatabaseSetup.class
+com\example\App.class
+com\example\servlet\RegisterServlet.class
